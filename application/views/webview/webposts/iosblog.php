@@ -11,7 +11,7 @@
         <br>iPhone 12 series are: the iPhone 12 Mini and the iPhone 12.
     </p>
     <div class="row">
-        <input type="checkbox" id="check" name="check">
+        <input type="checkbox" id="check" name="check" checked>
 
         <div class="ios12-content">
             <h3>iPhone 12 similarities</h3>

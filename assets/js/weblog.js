@@ -36,6 +36,16 @@ $(document).ready(function () {
 
     });
 
+    $('#check').on('click', function () {
+        $('#check').prop('checked', true);
+        $('#check1').prop('checked', false);
+    });
+
+    $('#check1').on('click', function () {
+        $('#check1').prop('checked', true);
+        $('#check').prop('checked', false);
+    });
+
 
     $('#btn_ios').on("click", function () {
         // var imgurl = base_url + "$img";

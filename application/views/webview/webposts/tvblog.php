@@ -7,18 +7,16 @@
         <h2>The Best TV for Movie and Game Nights?</h2>
     </div>
     <p class="longcopy">
-        The right television screen will enhance your viewing experience or become a window to different worlds.
+        A television screen is a window to different worlds. The right screen grips those before it and takes them on a wonderful adventure.
     <div class="row">
         <h3> Regular or SMART or AndroidTV</h3>
         <p class="longcopy">
-
             Digital is the standard for regular TVs, smart TVs are internet-enabled with inbuilt streaming services such as Youtube and NETFLIX while android TVs are internet-enabled as well but, you can download apps from Google Playstore.
             <br>
         </p>
         <h3>Resolution?</h3>
         <p class="longcopy">
-
-            The best resolution is without a doubt 4K resolution or Ultra HD.
+            The best resolution is without a doubt 4K resolution or Ultra High Definition (UHD).
             <br>
         </p>
         <h3> Frameless vs Framed</h3>

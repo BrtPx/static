@@ -4,7 +4,7 @@
 </header>
 <section class="section--deliveryinfo js--section-post">
     <div class="row">
-        <h2>All About Deliveries</h2>
+        <h2>Shipping and Deliveries</h2>
     </div>
     <div class="row">
         <div class="delivery-content">

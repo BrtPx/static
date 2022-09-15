@@ -711,7 +711,7 @@ h4
 {
     content: 'Show Less';
     display: block;
-    visibility: visible;
+    visibility: hidden;
 }
 label 
 {

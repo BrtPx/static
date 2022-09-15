@@ -7,7 +7,7 @@
         <h2>It's Freezing In Here!</h2>
     </div>
     <p class="longcopy">
-        Food is fundamentally important to not only stave off hunger, but to encourage growth and development, and build stronger immunity in both adults and children. Keeping food safe and fresh is in the best interest of every household.
+        Food is fundamentally important not only does it stave off hunger, but encourages growth and development, and builds stronger immunity in both adults and children. Keeping food safe and fresh is in the best interest of every household.
     </p>
     <div class="row">
         <h3>Size?</h3>

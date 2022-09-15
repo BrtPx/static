@@ -2,7 +2,7 @@
 
 <header>
     <div class="hero-text-box">
-        <h1><span style="color:#d6272d">Patazon(e)</span><br> For (e)xcellent Products and Services.</h1>
+        <h1><span style="color:#c7252a">Patazon Marketplace</span><br><span class="tagline" style="text-transform: capitalize; font-size: 90%"> The only choice for a premium and affordable shopping experience.</span></h1>
         <a class="btn btn-full" href="#motto"> Find Out More</a>
         <a class="btn btn-ghost" href="https://patazone.co.ke/">Shop</a>
     </div>

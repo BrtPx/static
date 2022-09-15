@@ -16,10 +16,6 @@
                 <li><i class="fa-solid fa-circle-dot"></i>Standing ovens</li>
                 <li><i class="fa-solid fa-circle-dot"></i>Table-top ovens</li>
                 <li><i class="fa-solid fa-circle-dot"></i>Table-top stoves</li>
-            </ul>
-        </div>
-        <div class="col span-1-of-2">
-            <ul>
                 <li><i class="fa-solid fa-circle-dot"></i>Microwaves </li>
                 <li><i class="fa-solid fa-circle-dot"></i>Kettles </li>
                 <li><i class="fa-solid fa-circle-dot"></i>Blenders and Juicers</li>

@@ -7,7 +7,7 @@
         <h2>The Best Android?</h2>
     </div>
     <p class="longcopy">
-        The stiff competition among smartphone companies means there is a smartphone out there just for you. Our large inventory of smartphones will help you find it and own it.
+        The stiff competition among smartphone companies means there is a smartphone out there just for you. Our large inventory of smartphones and knowledgeable staff will help you find it and own it.
     </p>
     <h3>With Patazon, you are spoilt for choice.</h3>
     <div class="row">
@@ -67,10 +67,36 @@
         </div>
     </div>
     <div class="row">
-        <div class="col span-1-of-1">
+        <div class="col span-1-of-3">
             Xiaomi smartphones:
             <ul>
                 <li><i class="fa-solid fa-circle-dot"></i>Redmi series </li>
+            </ul>
+            <br>
+            Realme smartphones:
+            <ul>
+                <li><i class="fa-solid fa-circle-dot"></i>C series </li>
+            </ul>
+        </div>
+        <div class="col span-1-of-3">
+            Huawei smartphones:
+            <ul>
+                <li><i class="fa-solid fa-circle-dot"></i>Mate series </li>
+                <li><i class="fa-solid fa-circle-dot"></i>P series </li>
+                <li><i class="fa-solid fa-circle-dot"></i>Y series </li>
+
+            </ul>
+        </div>
+        <div class="col span-1-of-3">
+            Nokia smartphones:
+            <ul>
+                <li><i class="fa-solid fa-circle-dot"></i>Nokia 1.4 </li>
+                <li><i class="fa-solid fa-circle-dot"></i>Nokia 2.4 </li>
+                <li><i class="fa-solid fa-circle-dot"></i>Nokia 3.4 </li>
+                <li><i class="fa-solid fa-circle-dot"></i>Nokia 5.4 </li>
+                <li><i class="fa-solid fa-circle-dot"></i>Nokia 6.2 </li>
+                <li><i class="fa-solid fa-circle-dot"></i>Nokia 7.2 </li>
+                <li><i class="fa-solid fa-circle-dot"></i>G series </li>
             </ul>
         </div>
     </div>

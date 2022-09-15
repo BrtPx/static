@@ -21,6 +21,7 @@
         border-radius: 10px;
         box-shadow: 0 5px 5px #e77c7f;
     }
+    .post { padding-bottom: 13%;}
     footer img { width: 60%;}
     .sns-links { padding-top: 45px; margin-right: 10px; }
     .sns-links li { font-size: 130%;}
@@ -74,6 +75,8 @@
     nav .logo { height: 60px; padding-left: 10%; margin-top: 5px;}
     .mobile-nav {padding-left: 5%}
     .hero-text-box { padding: 0 4%; top: 25%;}
+    .hero-text-box span {font-size: 200%;}
+    .hero-text-box h1 .tagline {font-size: 250%;}
     h1 {font-size: 18px;}
     .fa-circle-dot { width: 10px; vertical-align: middle;}
     .btn:link,
