@@ -8,14 +8,17 @@
     </div>
     <p class="longcopy">
         A television screen is a window to different worlds. The right screen grips those before it and takes them on a wonderful adventure.
+    </p>
     <div class="row">
         <h3> Regular or SMART or AndroidTV</h3>
         <p class="longcopy">
             Digital is the standard for regular TVs, smart TVs are internet-enabled with inbuilt streaming services such as Youtube and NETFLIX while android TVs are internet-enabled as well but, you can download apps from Google Playstore.
             <br>
         </p>
-        <h3>Resolution?</h3>
+        <br>
+        <h3> Resolution?</h3>
         <p class="longcopy">
+
             The best resolution is without a doubt 4K resolution or Ultra High Definition (UHD).
             <br>
         </p>
@@ -31,6 +34,8 @@
             Both have vivid colors but OLED has unbelievable contrast.
             <br>
         </p>
+        <br>
+
         <h3> Brand Loyal?</h3>
         <p class="longcopy">
             Patazon offers TVs from LG, SONY, Samsung, Hisense, Skyworth, VITRON, VISION and TCL.

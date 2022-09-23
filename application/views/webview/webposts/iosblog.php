@@ -14,6 +14,7 @@
         <input type="checkbox" id="check" name="check" checked>
 
         <div class="ios12-content">
+            <br>
             <h3>iPhone 12 similarities</h3>
 
             <ul>
@@ -34,6 +35,8 @@
             </ul>
 
             <p class="longcopy">
+                <br>
+
             <h3>iPhone 12 differences</h3>
             </p>
             <ul>
@@ -49,8 +52,8 @@
             iPhone 13 comes in four variants: iPhone 13, iPhone 13 Mini, iPhone 13 Pro and iPhone 13 Pro Max.
         </p>
         <div class="ios13-content">
+            <br>
             <h3>iPhone 13 similarities</h3>
-            </p>
             <ul>
                 <li><i class="fa-solid fa-circle-dot"></i>Ceramic Shield front.</li>
                 <li><i class="fa-solid fa-circle-dot"></i>All screens come with an OLED display.</li>
@@ -63,8 +66,9 @@
             </ul>
 
             <p class="longcopy">
+                <br>
+
             <h3>iPhone 13 differences</h3>
-            </p>
             <ul>
                 <li><i class="fa-solid fa-circle-dot"></i>The iPhone 13 Mini has a 5.4-inch display, the iPhone 13 and iPhone 13 Pro have a 6.1-inch while the 13 Pro Max has a 6.7-inch display.</li>
                 <li><i class="fa-solid fa-circle-dot"></i>The iPhone 13 Mini and the iPhone 13 have a dual 12MP camera system with Wide and Ultra Wide cameras.</li>
@@ -74,6 +78,7 @@
                 <li><i class="fa-solid fa-circle-dot"></i>Pro variants have a textured glass back and stainless steel design.</li>
                 <li><i class="fa-solid fa-circle-dot"></i>Pro variants utilize a LiDar Scanner (for 3D scanning).</li>
             </ul>
+            </p>
         </div>
         <label for="check1">Read More</label>
     </div>

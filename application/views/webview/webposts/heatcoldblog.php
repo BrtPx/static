@@ -26,7 +26,7 @@
         </p>
         <h3>Portability and Space?</h3>
         <p class="longcopy">
-            These devices only require an electrical outlet and are good to go. For specialized needs (such as the space of your rooms or desired range of heat or cold dispersion), they can be mounted onto walls while some are stand-alone devices that can be moved from room to room.
+            These devices require only an electrical outlet and are good to go. For specialized needs (such as the space of your rooms or desired range of heat or cold dispersion), they can be mounted onto walls while some are stand-alone devices that can be moved from room to room.
             <br>
         </p>
         <h3>Sound Levels?</h3>

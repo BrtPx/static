@@ -21,8 +21,8 @@ $(document).ready(function () {
     });
 
     $('.js--mobile-nav').click(function () {
-        var nav = $('.js--main-nav');
-        var icon = $('.js--mobile-nav i');
+        const nav = $('.js--main-nav');
+        const icon = $('.js--mobile-nav i');
 
         nav.slideToggle(100);
 
@@ -46,10 +46,4 @@ $(document).ready(function () {
         $('#check').prop('checked', false);
     });
 
-
-    $('#btn_ios').on("click", function () {
-        // var imgurl = base_url + "$img";
-        var url = base_url + "pblog/gen_blogpost"
-        // $('post-header').css("background-image", "url (" + imgurl + ")");
-    })
 })

@@ -29,7 +29,7 @@
 }
 @media only screen and (max-width:767px)
 {
-    body { font-size: 18px; }
+    body { font-size: 18px; font-weight: 400;}
     section { padding: 20px 0; }
     .row,
     .hero-text-box { padding: 0 4%;}
@@ -55,29 +55,43 @@
     
     
     .long-copy { width: 100%; margin-left: 0;}
-    h1 {font-size: 180%; margin-top: 60%;}
+    h1 {font-size: 180%; margin-top: 60%; font-weight: 400}
     .btn:link,
     .btn:visited { margin-left: 15%;}
     .btn-ghost:link,
     .btn-ghost:visited { margin-left: 2%;}
-    h2 {font-size: 150%;}
+    h2 {font-size: 150%;font-weight: 400}
+    h3 {font-weight: 400}
     
     .icon-motto { padding-left: 50px;}
     footer img { width: 40%;}
     .sns--links { padding-top: 10px; margin-right: 25%;}
-    .sns--links li { font-size: 150%; }
+    .sns--links li { font-size: 100%; }
     footer p { font-size: 70%; text-align: center; }
 }
 @media only screen and (max-width:480px)
 {
  
-    body { font-size: 15px;}
-    nav .logo { height: 60px; padding-left: 10%; margin-top: 5px;}
-    .mobile-nav {padding-left: 5%}
+    body { font-size: 18px; font-weight: 400;}
+    nav .logo { height: 60px; padding-left: 10%; padding-right:5%; margin-top: 6px;}
+    .mobile-nav {padding-left: 2%}
+    .sticky .main-nav { margin-top: 10px; padding: 2px;}
+    .sticky .mobile-nav {margin-top: 15px; margin-bottom: 25px;}
+    .sticky .mobile-nav i { font-size: 120%;}
+    .sticky .main-nav li a:link,
+    .sticky .main-nav li a:visited{padding: 1px 0; color: #ffffff;}
+    .sticky .main-nav li a:hover,
+    .sticky .main-nav li a:active {border-bottom: none ; color: #d6272d; }
+
+    
+
+
+
     .hero-text-box { padding: 0 4%; top: 25%;}
     .hero-text-box span {font-size: 200%;}
     .hero-text-box h1 .tagline {font-size: 250%;}
-    h1 {font-size: 18px;}
+    h1 {font-size: 18px; font-weight: 400}
+    h2, h3 {font-weight: 400}
     .fa-circle-dot { width: 10px; vertical-align: middle;}
     .btn:link,
     .btn:visited { padding: 7px 20px;}
